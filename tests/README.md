@@ -9,7 +9,7 @@ To run the test, you first need to install the required dependencies by running 
 You can run the test from the root of the project using the following command:
 
 ```bash
-uv run python -m tests.test_agent
+python -m tests.test_agent
 ```
 
 ## Test Scenario
