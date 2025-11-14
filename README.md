@@ -2,9 +2,9 @@
 
 NOTE: This is a **sample submssion** for the Kaggle Capstone project. Use this as a point of reference for structuring your submission. Avoid simply copying and reusing logic and or concepts.
 
-NOTE: This sample submssion was inspired and lifted from the official [ADK-Samples](https://github.com/google/adk-samples/tree/main/python/agents/blog-writer) repository. Special thanks to Pier Paolo Ippolito for his contribtions. 
+NOTE: This sample submssion was inspired and lifted from the official [ADK-Samples](https://github.com/google/adk-samples/tree/main/python/agents/blog-writer) repository. Special thanks to Pier Paolo Ippolito for his contributions. 
 
-This project contains the core logic for Agent Shellton, a multi-agent system designed to assist users in creating various types of blog posts. The agent is built using the Google Agent Development Kit (ADK) and follows a modular architecture.
+This project contains the core logic for Agent Shellton, a multi-agent system designed to assist users in creating various types of blog posts. The agent is built using Google Agent Development Kit (ADK) and follows a modular architecture.
 
 ### Problem Statement
 
@@ -113,7 +113,6 @@ The project is organized as follows:
 
 The Blogger Agent is a multi-agent system composed of a main orchestrator agent and several specialized sub-agents.
 
-![adk_web.png](adk_web.png)
 
 ### Main Agent
 
